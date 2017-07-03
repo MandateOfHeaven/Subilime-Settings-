@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Auto Semi-Colon",
+		"C++ Snippets",
+		"LaTeXTools",
+		"Package Control",
+		"Python 3",
+		"Python PEP8 Autoformat",
+		"SublimeCodeIntel",
+		"SublimeTmpl",
+		"Theme - Brogrammer",
+		"Theme - Soda",
+		"Theme - SoDaReloaded"
+	]
+}

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+\begin{python}
+$1
+\end{python}
+$2
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	-- <tabTrigger>python</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	-- <scope>text.tex.latex</scope> -
+</snippet>

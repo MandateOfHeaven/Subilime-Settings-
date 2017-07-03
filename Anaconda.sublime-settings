@@ -1,0 +1,7 @@
+{
+	"anaconda_linting" :false,
+	// "python_interpreter" : "/usr/bin/python",
+	"python_interpreter" : "/home/daiyi/Documents/Anaconda2/bin/python2.7",
+	"suppress_word_completions" : true ,	"suppress_explicit_completions" : true,
+	"complete_parameters" : true,
+}
